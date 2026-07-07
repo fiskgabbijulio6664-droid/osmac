@@ -1,0 +1,4 @@
+provider: github
+owner: KinX-ai
+repo: H2Book
+updaterCacheDirName: kinx-auto-updater
