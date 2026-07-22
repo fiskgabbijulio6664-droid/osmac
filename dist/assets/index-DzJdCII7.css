@@ -2676,7 +2676,9 @@ video {
     white-space: nowrap !important;
   }
 
-  /* DARK MODE THEME (Modern Slate) */
+  }
+
+/* DARK MODE THEME (Modern Slate) */
   body.dark-mode,
   body.dark-mode .bg-primary {
     background-color: #0f172a !important;
@@ -3099,4 +3101,3 @@ video {
   .flex-wrap.gap-1\.5 {
     gap: 10px !important;
   }
-}
